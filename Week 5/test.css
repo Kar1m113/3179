@@ -1,0 +1,19 @@
+#left-align{
+
+text-align: left;
+
+}
+
+
+#center-align{
+
+    text-align: center;
+    border: 10px solid blue;
+    }
+
+    #right-align{
+
+        text-align: right;
+        border: 10px solid black
+        
+        }
