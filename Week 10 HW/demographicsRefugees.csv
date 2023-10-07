@@ -1,4 +1,4 @@
-Year,CountryOrigin,CountryOriginISO,CountryAsylum,CountryAsylumISO,Female0-4,Female5-11,Female12-17,Female18-59,Female60,FemaleOther,FemaleTotal,Male0-4,Male0-5,Male0-6,Male0-7,Male0-8,Male0-9,Male0-10,Total
+Year,CountryOrigin,CountryOriginISO,CountryAsylum,CountryAsylumISO,Female0-4,Female5-11,Female12-17,Female18-59,Female60,FemaleOther,FemaleTotal,Male0-4,Male0-4,Male5-11,Male12-17,Male18-59,Male60,MaleOther,Total
 2022,Venezuela (Bolivarian Republic of),VEN,Aruba,ABW,0,0,0,0,0,9000,9000,0,0,0,0,0,8000,8000,17000
 2022,Bangladesh,BGD,Afghanistan,AFG,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
 2022,Iran (Islamic Rep. of),IRN,Afghanistan,AFG,0,13,9,12,0,0,34,0,12,0,10,0,0,22,56
