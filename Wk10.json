@@ -1,11 +1,11 @@
 
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 1000,
+  "width": 800,
   "height":700,
   "title": "Timeline of Refugees from 1951-2022",
   "data": {
-  "url": "https://raw.githubusercontent.com/Kar1m113/3179/main/Week%2010%20HW/5CountriesRefugeesGood.csv"
+  "url": "https://raw.githubusercontent.com/Kar1m113/3179/main/5CountriesRefugeesGood.csv"
   },
   "selection": {
     "continent_highlight": {
@@ -14,7 +14,7 @@
     "bind": "legend"
   }
   },
-  "width":{"step": 20},
+  "width":{"step": 15},
   "mark":{"type": "line","point":"true"},
   "encoding": {
     "x":{
