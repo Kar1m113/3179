@@ -14,7 +14,7 @@
     "bind": "legend"
   }
   },
-  "width":{"step": 50},
+  "width":{"step": 20},
   "mark":{"type": "line","point":"true"},
   "encoding": {
     "x":{
